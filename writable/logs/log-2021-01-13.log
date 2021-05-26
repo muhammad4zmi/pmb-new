@@ -1,0 +1,12 @@
+CRITICAL - 2021-01-13 16:29:08 --> Too many connections
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/app/Views/front/index.php(228): CodeIgniter\Database\BaseConnection->query('SELECT judul,in...')
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/system/View/View.php(246): include('/home/stmq3862/...')
+#4 /home/stmq3862/public_html/pmb/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('front/index', Array, true)
+#5 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/Pages.php(13): view('front/index')
+#6 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pages->index()
+#7 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#8 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}

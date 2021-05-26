@@ -1,0 +1,13 @@
+CRITICAL - 2020-11-18 19:32:39 --> Connection refused
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Applications/MAMP/htdocs/Sisfomaru/app/Views/front/index.php(258): CodeIgniter\Database\BaseConnection->query('SELECT judul,in...')
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('front/index', Array, true)
+#5 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pages.php(13): view('front/index')
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pages->index()
+#7 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#11 {main}

@@ -1,0 +1,5 @@
+__ci_last_regenerate|i:1612181008;_ci_previous_url|s:46:"https://pmb.stmiksznw.ac.id/user/changpassword";email|s:23:"pmb.stmiksznw@gmail.com";role_id|s:1:"2";pesan|s:321:" <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script><script>Swal.fire({
+                      icon: "success",
+                      title: "Informasi.",
+                      text: "Password anda berhasil diubah!, silahkan buka email anda untuk melihat informasi akun"
+                    })</script>";__ci_vars|a:1:{s:5:"pesan";s:3:"old";}

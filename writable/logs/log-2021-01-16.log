@@ -1,0 +1,231 @@
+CRITICAL - 2021-01-16 18:36:47 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 18:36:56 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 18:46:21 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 18:46:33 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 18:48:02 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 18:48:09 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 18:51:07 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 18:59:02 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 18:59:11 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 18:59:50 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:00:31 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:01:13 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:06:07 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:09:39 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:09:49 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:13:33 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:13:35 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:14:48 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:31:12 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:31:17 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:34:22 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:34:27 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:36:41 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:36:46 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:37:36 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:43:09 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:43:16 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:43:20 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:43:26 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:43:27 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:43:34 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:45:15 --> Class 'App\Controllers\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:45:24 --> Class 'App\Controllers\Spreadsheet' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:50:52 --> Class 'PHPExcel' not found
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-01-16 19:51:47 --> Undefined variable: datapendaftar
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/Pendaftar.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/stmq3862/...', 88, Array)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 19:51:53 --> Undefined variable: datapendaftar
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/Pendaftar.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/stmq3862/...', 88, Array)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 19:52:56 --> Undefined variable: datapendaftar
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/Pendaftar.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/stmq3862/...', 88, Array)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-01-16 19:53:29 --> Call to a member function getResult() on array
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->export()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

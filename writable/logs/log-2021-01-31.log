@@ -1,0 +1,6 @@
+CRITICAL - 2021-01-31 01:34:10 --> Too few arguments to function App\Controllers\Menu::delete_submenu(), 0 passed in /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php on line 914 and exactly 1 expected
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Menu->delete_submenu()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Menu))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

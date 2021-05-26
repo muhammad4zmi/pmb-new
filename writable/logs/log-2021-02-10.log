@@ -1,0 +1,106 @@
+CRITICAL - 2021-02-10 05:19:41 --> syntax error, unexpected 'tmpt_lahir' (T_STRING), expecting ']'
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/pendaftar...', Array, true)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/Pendaftar.php(48): view('admin/pendaftar...', Array)
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->detail('40')
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#4 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-02-10 05:19:49 --> syntax error, unexpected 'tmpt_lahir' (T_STRING), expecting ']'
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/pendaftar...', Array, true)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/Pendaftar.php(48): view('admin/pendaftar...', Array)
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->detail('40')
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#4 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-02-10 05:19:57 --> syntax error, unexpected 'tmpt_lahir' (T_STRING), expecting ']'
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/pendaftar...', Array, true)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/Pendaftar.php(48): view('admin/pendaftar...', Array)
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->detail('33')
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#4 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-02-10 05:20:04 --> syntax error, unexpected 'tmpt_lahir' (T_STRING), expecting ']'
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/pendaftar...', Array, true)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/Pendaftar.php(48): view('admin/pendaftar...', Array)
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->detail('40')
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#4 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-02-10 19:03:51 --> Call to a member function getResultArray() on array
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Identitas->index()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Identitas))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-10 19:03:58 --> Call to a member function getResultArray() on array
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Identitas->index()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Identitas))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-10 19:05:53 --> Call to a member function getResultArray() on array
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Identitas->index()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Identitas))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-10 19:05:55 --> Call to a member function getResultArray() on array
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Identitas->index()
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Identitas))
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-02-10 19:27:13 --> Illegal string offset 'tgl_buka'
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/app/Views/user/identitas/index.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/home/stmq3862/...', 115, Array)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/View/View.php(246): include('/home/stmq3862/...')
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('user/identitas/...', Array, true)
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/Identitas.php(47): view('user/identitas/...', Array)
+#4 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Identitas->index()
+#5 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Identitas))
+#6 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-10 19:27:18 --> Illegal string offset 'tgl_buka'
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/app/Views/user/identitas/index.php(115): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/home/stmq3862/...', 115, Array)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/View/View.php(246): include('/home/stmq3862/...')
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('user/identitas/...', Array, true)
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/Identitas.php(47): view('user/identitas/...', Array)
+#4 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Identitas->index()
+#5 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Identitas))
+#6 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-10 20:41:05 --> Illegal string offset 'tgl_buka'
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/app/Views/user/dasboard/index.php(259): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/home/stmq3862/...', 259, Array)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/View/View.php(246): include('/home/stmq3862/...')
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('user/dasboard/i...', Array, true)
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/User.php(44): view('user/dasboard/i...', Array)
+#4 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->index()
+#5 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-10 20:41:41 --> Illegal string offset 'tgl_buka'
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/app/Views/user/dasboard/index.php(259): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/home/stmq3862/...', 259, Array)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/View/View.php(246): include('/home/stmq3862/...')
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('user/dasboard/i...', Array, true)
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/User.php(44): view('user/dasboard/i...', Array)
+#4 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->index()
+#5 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-02-10 20:41:43 --> Illegal string offset 'tgl_buka'
+#0 /home/stmq3862/public_html/pmb/Sisfomaru/app/Views/user/dasboard/index.php(259): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/home/stmq3862/...', 259, Array)
+#1 /home/stmq3862/public_html/pmb/Sisfomaru/system/View/View.php(246): include('/home/stmq3862/...')
+#2 /home/stmq3862/public_html/pmb/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('user/dasboard/i...', Array, true)
+#3 /home/stmq3862/public_html/pmb/Sisfomaru/app/Controllers/User.php(44): view('user/dasboard/i...', Array)
+#4 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->index()
+#5 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 /home/stmq3862/public_html/pmb/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/stmq3862/public_html/pmb/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

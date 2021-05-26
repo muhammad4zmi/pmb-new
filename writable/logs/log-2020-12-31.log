@@ -1,0 +1,46 @@
+CRITICAL - 2020-12-31 03:15:30 --> Unknown column 'assets' in 'where clause'
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT pendafta...')
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT pendafta...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT pendafta...')
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Models/PendaftarModel.php(47): CodeIgniter\Database\BaseConnection->query('SELECT pendafta...')
+#4 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(34): App\Models\PendaftarModel->getDetail('assets')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->detail('assets', 'js', 'style', 'js', 'plugins', 'pace.min.js')
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#7 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#10 {main}
+CRITICAL - 2020-12-31 03:15:30 --> Unknown column 'assets' in 'where clause'
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT pendafta...')
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT pendafta...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT pendafta...')
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Models/PendaftarModel.php(47): CodeIgniter\Database\BaseConnection->query('SELECT pendafta...')
+#4 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(34): App\Models\PendaftarModel->getDetail('assets')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->detail('assets', 'js', 'style', 'js', 'plugins', 'pace.min.js')
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#7 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#10 {main}
+CRITICAL - 2020-12-31 03:36:51 --> Trying to access array offset on value of type null
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/admin/informasi/edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/Applications/M...', 13, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/informasi...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Informasi.php(103): view('admin/informasi...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Informasi->edit('assets', 'js', 'style', 'js', 'plugins', 'pace.min.js')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Informasi))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2020-12-31 03:36:52 --> Trying to access array offset on value of type null
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/admin/informasi/edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/Applications/M...', 13, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/informasi...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Informasi.php(103): view('admin/informasi...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Informasi->edit('assets', 'js', 'style', 'js', 'plugins', 'pace.min.js')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Informasi))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}

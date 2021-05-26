@@ -1,0 +1,301 @@
+CRITICAL - 2021-01-02 02:17:34 --> Unknown column 'assets' in 'where clause'
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT pendafta...')
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT pendafta...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT pendafta...')
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Models/PendaftarModel.php(47): CodeIgniter\Database\BaseConnection->query('SELECT pendafta...')
+#4 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(34): App\Models\PendaftarModel->getDetail('assets')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->detail('assets', 'js', 'style', 'js', 'plugins', 'pace.min.js')
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#7 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#10 {main}
+CRITICAL - 2021-01-02 02:17:34 --> Unknown column 'assets' in 'where clause'
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT pendafta...')
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT pendafta...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT pendafta...')
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Models/PendaftarModel.php(47): CodeIgniter\Database\BaseConnection->query('SELECT pendafta...')
+#4 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(34): App\Models\PendaftarModel->getDetail('assets')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->detail('assets', 'js', 'style', 'js', 'plugins', 'pace.min.js')
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#7 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#10 {main}
+CRITICAL - 2021-01-02 02:21:33 --> Undefined property: App\Controllers\Pendaftar::$informasiModel
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/Applications/M...', 48, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->cetakformulir('12')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#6 {main}
+CRITICAL - 2021-01-02 02:22:33 --> Trying to access array offset on value of type null
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/admin/pendaftar/cetakformulir.php(286): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/Applications/M...', 286, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/pendaftar...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(57): view('admin/pendaftar...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->cetakformulir('12')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 02:23:13 --> Trying to access array offset on value of type null
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/admin/pendaftar/cetakformulir.php(286): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/Applications/M...', 286, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/pendaftar...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(56): view('admin/pendaftar...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->cetakformulir('12')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 02:28:36 --> Undefined index: status
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/admin/pendaftar/cetakformulir.php(286): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/M...', 286, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/pendaftar...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(59): view('admin/pendaftar...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->cetakformulir('12')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 02:30:12 --> Undefined index: status
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/admin/pendaftar/cetakformulir.php(282): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/M...', 282, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/pendaftar...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(59): view('admin/pendaftar...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->cetakformulir('12')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 02:30:14 --> Undefined index: status
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/admin/pendaftar/cetakformulir.php(282): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/M...', 282, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/pendaftar...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(59): view('admin/pendaftar...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->cetakformulir('12')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 02:54:23 --> Unknown column 'assets' in 'where clause'
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT pendafta...')
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT pendafta...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT pendafta...')
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Models/PendaftarModel.php(47): CodeIgniter\Database\BaseConnection->query('SELECT pendafta...')
+#4 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(36): App\Models\PendaftarModel->getDetail('assets')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->detail('assets', 'js', 'style', 'js', 'plugins', 'pace.min.js')
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#7 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#10 {main}
+CRITICAL - 2021-01-02 02:54:24 --> Unknown column 'assets' in 'where clause'
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/Database/MySQLi/Connection.php(331): mysqli->query('SELECT pendafta...')
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT pendafta...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT pendafta...')
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Models/PendaftarModel.php(47): CodeIgniter\Database\BaseConnection->query('SELECT pendafta...')
+#4 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(36): App\Models\PendaftarModel->getDetail('assets')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->detail('assets', 'js', 'style', 'js', 'plugins', 'pace.min.js')
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#7 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#10 {main}
+CRITICAL - 2021-01-02 03:40:34 --> Trying to access array offset on value of type null
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/admin/informasi/edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/Applications/M...', 13, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/informasi...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Informasi.php(103): view('admin/informasi...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Informasi->edit('assets', 'js', 'style', 'js', 'plugins', 'pace.min.js')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Informasi))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 03:40:34 --> Trying to access array offset on value of type null
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/admin/informasi/edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', '/Applications/M...', 13, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/informasi...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Informasi.php(103): view('admin/informasi...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Informasi->edit('assets', 'js', 'style', 'js', 'plugins', 'pace.min.js')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Informasi))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 04:57:42 --> Invalid file: user/dasboard/editprofil.php
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/dasboard/e...')
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('user/dasboard/e...', Array, true)
+#2 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(60): view('user/dasboard/e...', Array)
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->editprofil()
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#8 {main}
+CRITICAL - 2021-01-02 05:38:10 --> Illegal string offset 'email'
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/user/dasboard/editprofil.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', '/Applications/M...', 72, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('user/dasboard/e...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(60): view('user/dasboard/e...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->editprofil()
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 06:02:53 --> Undefined variable: validation
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/user/dasboard/editprofil.php(94): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 94, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('user/dasboard/e...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(60): view('user/dasboard/e...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->editprofil()
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 06:03:42 --> Too few arguments to function App\Controllers\User::edit_profil(), 0 passed in /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php on line 914 and exactly 1 expected
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->edit_profil()
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#5 {main}
+CRITICAL - 2021-01-02 06:50:16 --> syntax error, unexpected ';', expecting ')'
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/Applications/M...')
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(865): class_exists('\\App\\Controller...', true)
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->startController()
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 06:51:00 --> unlink(admin/img/profil/default.png): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(admin/im...', '/Applications/M...', 96, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(96): unlink('admin/img/profi...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->edit_profil('16')
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#7 {main}
+CRITICAL - 2021-01-02 06:58:35 --> unlink(admin/img/profil/default.png): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(admin/im...', '/Applications/M...', 96, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(96): unlink('admin/img/profi...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->edit_profil('16')
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#7 {main}
+CRITICAL - 2021-01-02 06:59:16 --> unlink(../admin/img/profil/default.png): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../admin...', '/Applications/M...', 96, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(96): unlink('../admin/img/pr...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->edit_profil('16')
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#7 {main}
+CRITICAL - 2021-01-02 07:00:08 --> unlink(): http does not allow unlinking
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(): http ...', '/Applications/M...', 96, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(96): unlink('http://localhos...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->edit_profil('16')
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#7 {main}
+CRITICAL - 2021-01-02 07:00:57 --> unlink(): http does not allow unlinking
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(): http ...', '/Applications/M...', 96, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(96): unlink('http://localhos...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->edit_profil('16')
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#7 {main}
+CRITICAL - 2021-01-02 07:04:20 --> unlink(): http does not allow unlinking
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(): http ...', '/Applications/M...', 96, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(96): unlink('http://localhos...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->edit_profil('14')
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#7 {main}
+CRITICAL - 2021-01-02 07:28:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com' at line 1
+#0 /Applications/MAMP/htdocs/Sisfomaru/system/Database/MySQLi/Connection.php(331): mysqli->query('UPDATE users se...')
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE users se...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE users se...')
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(107): CodeIgniter\Database\BaseConnection->query('UPDATE users se...')
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->edit_profil('misdin@gmail.co...')
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 18:11:22 --> Undefined index: email
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Berkas.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/M...', 37, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Berkas->verifikasi('202101030010')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Berkas))
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#6 {main}
+CRITICAL - 2021-01-02 18:15:44 --> Undefined index: email
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Berkas.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/M...', 39, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Berkas->verifikasi('202101030010')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Berkas))
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#6 {main}
+CRITICAL - 2021-01-02 18:16:25 --> Undefined index: email
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Berkas.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/M...', 39, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Berkas->verifikasi('202101030010')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Berkas))
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#6 {main}
+CRITICAL - 2021-01-02 19:12:24 --> unlink(): http does not allow unlinking
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(): http ...', '/Applications/M...', 103, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(103): unlink('http://localhos...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->edit_profil('muhammadazmi1@g...')
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#7 {main}
+CRITICAL - 2021-01-02 19:26:51 --> Undefined index: image
+#0 /Applications/MAMP/htdocs/Sisfomaru/app/Views/admin/pendaftar/index.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/Applications/M...', 63, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/Common.php(1087): CodeIgniter\View\View->render('admin/pendaftar...', Array, true)
+#3 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/Pendaftar.php(30): view('admin/pendaftar...', Array)
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\Pendaftar->index()
+#5 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendaftar))
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-01-02 19:34:48 --> unlink(admin/assets/img/profil/1609592700_474e2f34bfa41eb36d6c.jpg): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(admin/as...', '/Applications/M...', 103, Array)
+#1 /Applications/MAMP/htdocs/Sisfomaru/app/Controllers/User.php(103): unlink('admin/assets/im...')
+#2 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(914): App\Controllers\User->edit_profil('ashril.rizal@gm...')
+#3 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#4 /Applications/MAMP/htdocs/Sisfomaru/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/Sisfomaru/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /Applications/MAMP/htdocs/Sisfomaru/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#7 {main}

@@ -1,0 +1,108 @@
+CRITICAL - 2021-03-05 08:54:10 --> Trying to get property 'prodi' of non-object
+#0 /Applications/MAMP/htdocs/pmb/app/Views/admin/dasboard/index.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', '/Applications/M...', 86, Array)
+#1 /Applications/MAMP/htdocs/pmb/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/pmb/system/Common.php(1087): CodeIgniter\View\View->render('admin/dasboard/...', Array, true)
+#3 /Applications/MAMP/htdocs/pmb/app/Controllers/Admin.php(38): view('admin/dasboard/...', Array)
+#4 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/pmb/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/pmb/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-03-05 09:00:24 --> Undefined variable: nama_jurusan
+#0 /Applications/MAMP/htdocs/pmb/app/Views/admin/dasboard/index.php(102): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 102, Array)
+#1 /Applications/MAMP/htdocs/pmb/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/pmb/system/Common.php(1087): CodeIgniter\View\View->render('admin/dasboard/...', Array, true)
+#3 /Applications/MAMP/htdocs/pmb/app/Controllers/Admin.php(38): view('admin/dasboard/...', Array)
+#4 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/pmb/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/pmb/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-03-05 09:00:45 --> Undefined variable: nama_jurusan
+#0 /Applications/MAMP/htdocs/pmb/app/Views/admin/dasboard/index.php(102): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 102, Array)
+#1 /Applications/MAMP/htdocs/pmb/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/pmb/system/Common.php(1087): CodeIgniter\View\View->render('admin/dasboard/...', Array, true)
+#3 /Applications/MAMP/htdocs/pmb/app/Controllers/Admin.php(38): view('admin/dasboard/...', Array)
+#4 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/pmb/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/pmb/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-03-05 09:00:46 --> Undefined variable: nama_jurusan
+#0 /Applications/MAMP/htdocs/pmb/app/Views/admin/dasboard/index.php(102): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 102, Array)
+#1 /Applications/MAMP/htdocs/pmb/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/pmb/system/Common.php(1087): CodeIgniter\View\View->render('admin/dasboard/...', Array, true)
+#3 /Applications/MAMP/htdocs/pmb/app/Controllers/Admin.php(38): view('admin/dasboard/...', Array)
+#4 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/pmb/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/pmb/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-03-05 09:01:16 --> Undefined variable: nama_jurusan
+#0 /Applications/MAMP/htdocs/pmb/app/Views/admin/dasboard/index.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 88, Array)
+#1 /Applications/MAMP/htdocs/pmb/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/pmb/system/Common.php(1087): CodeIgniter\View\View->render('admin/dasboard/...', Array, true)
+#3 /Applications/MAMP/htdocs/pmb/app/Controllers/Admin.php(38): view('admin/dasboard/...', Array)
+#4 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/pmb/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/pmb/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-03-05 09:01:31 --> Undefined variable: nama_jurusan
+#0 /Applications/MAMP/htdocs/pmb/app/Views/admin/dasboard/index.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 88, Array)
+#1 /Applications/MAMP/htdocs/pmb/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/pmb/system/Common.php(1087): CodeIgniter\View\View->render('admin/dasboard/...', Array, true)
+#3 /Applications/MAMP/htdocs/pmb/app/Controllers/Admin.php(38): view('admin/dasboard/...', Array)
+#4 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/pmb/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/pmb/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-03-05 09:01:32 --> Undefined variable: nama_jurusan
+#0 /Applications/MAMP/htdocs/pmb/app/Views/admin/dasboard/index.php(88): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 88, Array)
+#1 /Applications/MAMP/htdocs/pmb/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/pmb/system/Common.php(1087): CodeIgniter\View\View->render('admin/dasboard/...', Array, true)
+#3 /Applications/MAMP/htdocs/pmb/app/Controllers/Admin.php(38): view('admin/dasboard/...', Array)
+#4 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/pmb/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/pmb/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-03-05 09:01:47 --> Undefined variable: jumlah
+#0 /Applications/MAMP/htdocs/pmb/app/Views/admin/dasboard/index.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 90, Array)
+#1 /Applications/MAMP/htdocs/pmb/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/pmb/system/Common.php(1087): CodeIgniter\View\View->render('admin/dasboard/...', Array, true)
+#3 /Applications/MAMP/htdocs/pmb/app/Controllers/Admin.php(38): view('admin/dasboard/...', Array)
+#4 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/pmb/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/pmb/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-03-05 09:01:48 --> Undefined variable: jumlah
+#0 /Applications/MAMP/htdocs/pmb/app/Views/admin/dasboard/index.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Applications/M...', 90, Array)
+#1 /Applications/MAMP/htdocs/pmb/system/View/View.php(246): include('/Applications/M...')
+#2 /Applications/MAMP/htdocs/pmb/system/Common.php(1087): CodeIgniter\View\View->render('admin/dasboard/...', Array, true)
+#3 /Applications/MAMP/htdocs/pmb/app/Controllers/Admin.php(38): view('admin/dasboard/...', Array)
+#4 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(914): App\Controllers\Admin->index()
+#5 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Applications/MAMP/htdocs/pmb/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#8 /Applications/MAMP/htdocs/pmb/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#9 {main}
+CRITICAL - 2021-03-05 09:27:04 --> syntax error, unexpected '}'
+#0 /Applications/MAMP/htdocs/pmb/system/Common.php(1087): CodeIgniter\View\View->render('admin/dasboard/...', Array, true)
+#1 /Applications/MAMP/htdocs/pmb/app/Controllers/Admin.php(38): view('admin/dasboard/...', Array)
+#2 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(914): App\Controllers\Admin->index()
+#3 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#4 /Applications/MAMP/htdocs/pmb/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /Applications/MAMP/htdocs/pmb/public/index.php(43): CodeIgniter\CodeIgniter->run()
+#6 /Applications/MAMP/htdocs/pmb/system/Commands/Server/rewrite.php(34): require_once('/Applications/M...')
+#7 {main}
